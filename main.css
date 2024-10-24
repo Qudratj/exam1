@@ -1,0 +1,266 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.navbar {
+    background-color: #2c3e50;
+    overflow: hidden;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    font-family: "Quantico";
+}
+
+.navbar a {
+    color: white;
+    padding: 14px 20px;
+    text-decoration: none;
+    font-size: 17px;
+    
+}
+
+.navbar a:hover {
+    transition: 0.5s ease-in-out;
+    color: rgb(255, 156, 40);
+font-family: Quantico;
+font-size: 20px;
+font-weight: 400;
+line-height: 29px;
+letter-spacing: 0%;
+text-align: left;
+font-family: "Quantico";
+}
+
+.navbar .right {
+    display: flex;
+    align-items: center;
+}
+
+.navbar input[type="text"] {
+    padding: 6px;
+    margin-left: 10px;
+    font-size: 17px;
+}
+
+.navbar .language {
+    color: white;
+    margin-left: 15px;
+    border: none;
+    background-color: #2c3e50;
+}
+
+.banner {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.banner img {
+    width: 100%;
+    height: auto;
+}
+
+.banner-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 40px;
+}
+
+.search__glasss{
+position: absolute;
+width: 28.01px;
+height: 26px;
+left: 999.3px;
+top: 22px;
+background: url(search_glass);
+}
+
+.bosh__rasm{
+    left: 538px;
+    top: 645px;
+    background: linear-gradient(180.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0));
+-webkit-background-clip:
+text;
+-webkit-text-fill-color:
+transparent;
+background-clip:
+text;
+text-fill-color:
+transparent;
+font-family: Quantico;
+font-size: 32px;
+font-weight: 400;
+line-height: 46px;
+letter-spacing: 0%;
+text-align: center;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #222;
+    color: white;
+}
+
+.slider {
+    width: 600px;
+    margin: 50px auto;
+    text-align: center;
+}
+
+.slider h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.slider-container {
+    display: flex;
+    overflow: hidden;
+    gap: 40.13px;
+}
+
+.slider-container img {
+    width: 200px;
+    height: 300px;
+    object-fit: cover;
+    margin-right: 10px;
+}
+
+.slider-container img:hover {
+    cursor: pointer;
+    transform: scale(1.05);
+    transition: transform 0.3s;
+}
+
+.arrow {
+    font-size: 24px;
+    margin: 0 10px;
+    cursor: pointer;
+}
+
+.slider-container img {
+    border-radius: 10px;
+}
+
+.arrow:hover{
+    transition: 0.5s ease-in-out;
+    background-color: gray;
+    background-color: transparent;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #111;
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+.container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+}
+.champions {
+    text-align: center;
+    margin-bottom: 50px;
+}
+.champions img {
+    width: 100%;
+    max-width: 600px;
+    height: auto;
+}
+.champions h2 {
+    font-size: 24px;
+    margin-top: 10px;
+}
+.champions p {
+    font-size: 16px;
+    color: #bbb;
+}
+.stage-set {
+    margin-bottom: 50px;
+}
+.stage-set h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+.stage-set img {
+    width: 100%;
+    max-width: 600px;
+    height: auto;
+}
+.stage-set p {
+    font-size: 16px;
+    color: #bbb;
+}
+
+.yobana{
+    background-color: #2c3e50;
+    overflow: hidden;
+    display: flex;
+    justify-content: space-between;
+    align-items: end;
+    padding: 10px 20px;
+    font-family: "Quantico";
+    color: rgb(255, 156, 40);
+font-size: 20px;
+font-weight: 400;
+line-height: 29px;
+}
+
+
+.yobana a{
+    color: white;
+    padding: 14px 20px;
+    text-decoration: none;
+    font-size: 17px;
+    font-family: "Quantico";
+}
+
+.yobana a:hover {
+    transition: 0.5s ease-in-out;
+    color: rgb(255, 156, 40);
+font-family: Quantico;
+font-size: 20px;
+font-weight: 400;
+line-height: 29px;
+letter-spacing: 0%;
+text-align: left;
+font-family: "Quantico";
+}
+
+.container{
+width: 1189px;
+height: 928px;
+left: 47px;
+top: 999px;
+display: flex;
+justify-content: space-between;
+}
+
+.second__btn{
+    color: rgba(255, 255, 255, 0.8);
+font-family: Quantico;
+font-size: 14px;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0%;
+text-align: left;
+background-color: rgba(0, 0, 0, 0.5)
+border-radius: 5px;
+
+background: rgba(0, 0, 0, 0.5);;
+}
+
+.birbalo{
+position: absolute;
+width: 241.87px;
+height: 30px;
+left: 1000.53px;
+border-radius: 5px;
+
+background: rgb(64, 72, 100);
+}
